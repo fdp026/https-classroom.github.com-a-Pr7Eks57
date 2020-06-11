@@ -1,0 +1,1 @@
+Hello! This is a working file in Git Repository folder.
